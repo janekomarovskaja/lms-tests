@@ -23,3 +23,6 @@ https://docs.google.com/spreadsheets/d/1ltcUg1Ke-2VenXTW1uiiGfLAaK96HDYeyDqaB15d
 
 ## Тест-кейсы API
 https://docs.google.com/spreadsheets/d/1uZvrsg0FlwcaEs_8QjwqR4Y30nDS6iXhEKmZsSqvBKs/edit#gid=0
+
+## Баг-репорты на доске проекта
+https://github.com/users/Valentina810/projects/1
