@@ -28,4 +28,4 @@ https://docs.google.com/spreadsheets/d/1uZvrsg0FlwcaEs_8QjwqR4Y30nDS6iXhEKmZsSqv
 https://github.com/users/Valentina810/projects/1
 
 ## Коллекция автотестов в Postman
-https://github.com/Valentina810/lms/blob/feature/add-postman-tests-1/lms%20USER-LESSON-CONTROLLERS.postman_collection.json
+https://github.com/Valentina810/lms/blob/main/lms%20USER-LESSON-CONTROLLERS.postman_collection.json
